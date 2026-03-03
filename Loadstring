@@ -1,0 +1,13 @@
+--[[                                                                                        
+  ,ad8888ba,                                                                            
+ d8"'    `"8b                                                                           
+d8'        `8b                                                                          
+88          88   ,adPPYba,   ,adPPYba,  888888888  8b       d8  8b,     ,d8  888888888  
+88          88  a8P_____88  a8P_____88       a8P"  `8b     d8'   `Y8, ,8P'        a8P"  
+Y8,    "88,,8P  8PP"""""""  8PP"""""""    ,d8P'     `8b   d8'      )888(       ,d8P'    
+ Y8a.    Y88P   "8b,   ,aa  "8b,   ,aa  ,d8"         `8b,d8'     ,d8" "8b,   ,d8"       
+  `"Y8888Y"Y8a   `"Ybbd8"'   `"Ybbd8"'  888888888      Y88'     8P'     `Y8  888888888  
+                                                       d8'                              
+                                                      d8'                               ]]
+ 
+loadstring(game:HttpGet('https://pastebin.com/raw/NPW2mQWZ'))()
